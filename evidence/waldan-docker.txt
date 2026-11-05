@@ -1,0 +1,10 @@
+=== UJI POSITIF DOCKER (Read-only Mount) ===
+Command 'docker' not found, but can be installed with:
+sudo snap install docker
+exit docker read: 127
+=== UJI NEGATIF DOCKER (Menulis ke Read-only) ===
+46fd4b999a2ce4e59ffa705f1e28e95f4c17d679d13551c9db2ff33f13a30769  output/laporan.txt
+Command 'docker' not found, but can be installed with:
+sudo snap install docker
+exit docker write: 127
+46fd4b999a2ce4e59ffa705f1e28e95f4c17d679d13551c9db2ff33f13a30769  output/laporan.txt

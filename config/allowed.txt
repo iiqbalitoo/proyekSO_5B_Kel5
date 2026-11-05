@@ -1,0 +1,5 @@
+tests/ok.sh
+tests/gagal.sh
+tests/tidur.sh
+tests/beban_cpu.sh
+tests/beban_mem.sh

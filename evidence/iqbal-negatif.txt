@@ -1,0 +1,11 @@
+=== UJI NEGATIF: status.sh job gagal ===
+Perintah: bash scripts/status.sh /tmp/b.job
+exit: 1
+23:01:45|a|RUNNING|12868|-|berjalan
+23:01:47|a|SUCCESS|12868|0|selesai
+23:01:52|b|RUNNING|12922|-|berjalan
+23:01:55|b|FAILED|12922|1|exit status bukan nol
+=== UJI NEGATIF: status.sh tanpa argumen ===
+Perintah: bash scripts/status.sh
+Pakai: bash scripts/status.sh <file.job>
+exit: 2

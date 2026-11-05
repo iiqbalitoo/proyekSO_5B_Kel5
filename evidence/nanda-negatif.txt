@@ -1,1 +1,5 @@
 === UJI NEGATIF: Worker ganda ditolak ===
+Ditolak: worker lain sedang berjalan
+exit: 1
+Antrean kosong
+exit: 0

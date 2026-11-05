@@ -1,0 +1,2 @@
+=== UJI POSITIF: timeout cukup ===
+exit: 0

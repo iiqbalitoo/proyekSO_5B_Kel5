@@ -1,0 +1,6 @@
+=== UJI NEGATIF: timeout terlampaui ===
+exit: 124
+=== CEK PROSES TIDUR ===
+fathir      1723  0.0  0.0   4120  2304 pts/0    S+   22:07   0:00 grep --color=auto tidur
+=== CEK PROSES TIDUR ===
+fathir      1741  0.0  0.0   4120  2304 pts/0    S+   22:07   0:00 grep --color=auto tidur

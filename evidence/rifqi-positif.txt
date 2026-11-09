@@ -1,32 +1,32 @@
-== Job 20261109124341308164785 (PID 808) jam 12:43:42 ==
+== Job 20261109130518535806514 (PID 1088) jam 13:05:19 ==
 -- 3 proses terbesar CPU --
     PID    PPID %CPU %MEM   RSS COMMAND
-    815     814  100  0.0  1784 yes
+   1095    1094  100  0.0  1788 yes
       1       0  0.0  0.1 13088 systemd
-    763     762  0.0  0.0  5396 bash
+     98       1  0.0  0.0  6680 systemd-udevd
 -- 3 proses terbesar memori --
     PID    PPID %CPU %MEM   RSS COMMAND
     222       1  0.0  0.2 23284 unattended-upgr
-     43       1  0.0  0.2 16252 systemd-journal
+     43       1  0.0  0.2 16272 systemd-journal
     109       1  0.0  0.1 13232 systemd-resolve
 -- memori sistem (MB) --
                total        used        free      shared  buff/cache   available
-Mem:            7786         496        7233           4         204        7290
+Mem:            7786         504        7212           4         217        7282
 Swap:           2048           0        2048
 
-== Job 20261109124341316790225 (PID 831) jam 12:43:45 ==
+== Job 20261109130518544974406 (PID 1111) jam 13:05:22 ==
 -- 3 proses terbesar CPU --
     PID    PPID %CPU %MEM   RSS COMMAND
-    835     833 43.5  0.5 42560 bash
+   1115    1113 45.5  0.5 42612 bash
       1       0  0.0  0.1 13088 systemd
-    763     762  0.0  0.0  5396 bash
+     98       1  0.0  0.0  6680 systemd-udevd
 -- 3 proses terbesar memori --
     PID    PPID %CPU %MEM   RSS COMMAND
-    835     833 43.1  0.5 42560 bash
+   1115    1113 45.0  0.5 42612 bash
     222       1  0.0  0.2 23284 unattended-upgr
-     43       1  0.0  0.2 16252 systemd-journal
+     43       1  0.0  0.2 16272 systemd-journal
 -- memori sistem (MB) --
                total        used        free      shared  buff/cache   available
-Mem:            7786         570        7159           4         204        7216
+Mem:            7786         576        7140           4         217        7209
 Swap:           2048           0        2048
 

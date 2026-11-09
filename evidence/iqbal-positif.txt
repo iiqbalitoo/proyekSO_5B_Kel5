@@ -1,5 +1,2 @@
 === UJI POSITIF: status.sh sukses ===
-Perintah: bash scripts/status.sh /tmp/a.job
 exit: 0
-23:01:45|a|RUNNING|12868|-|berjalan
-23:01:47|a|SUCCESS|12868|0|selesai

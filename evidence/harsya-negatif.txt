@@ -1,0 +1,3 @@
+=== UJI NEGATIF ===
+Ditolak: script tidak ada di daftar izin
+Ditolak: parameter hanya boleh huruf dan angka

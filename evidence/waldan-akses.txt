@@ -1,5 +1,1 @@
-=== UJI HAK AKSES USER ===
-Pekerjaan masuk antrean: 20261105220901052674684
-exit petugas: 0
 Ditolak: kamu tidak punya akses ke antrean
-exit tamu: 5

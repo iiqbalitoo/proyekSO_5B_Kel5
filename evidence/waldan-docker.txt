@@ -1,4 +1,9 @@
-Command 'docker' not found, but can be installed with:
-sudo snap install docker
-Command 'docker' not found, but can be installed with:
-sudo snap install docker
+LAPORAN STATUS ANTREAN
+Dibuat: Mon Nov  9 12:58:41 +07 2026
+Menunggu : 0
+Berjalan : 0
+Berhasil : 0
+Gagal    : 0
+
+5 baris log terakhir:
+sh: can't create /data/laporan.txt: Read-only file system

@@ -1,33 +1,32 @@
-=== UJI POSITIF: Monitoring Beban CPU dan Memori ===
-== Job 20261105220509796988067 (PID 1170) jam 22:05:10 ==
+== Job 20261109121336799136007 (PID 511) jam 12:13:38 ==
 -- 3 proses terbesar CPU --
     PID    PPID %CPU %MEM   RSS COMMAND
-   1177    1176 99.0  0.0  1784 yes
-      1       0  0.0  0.1 13296 systemd
-     91       1  0.0  0.0  6700 systemd-udevd
+    518     517 99.0  0.0  1780 yes
+      1       0  2.4  0.1 13088 systemd
+     43       1  0.7  0.2 16200 systemd-journal
 -- 3 proses terbesar memori --
     PID    PPID %CPU %MEM   RSS COMMAND
-    205       1  0.0  0.2 23276 unattended-upgr
-     40       1  0.0  0.2 16412 systemd-journal
-   1085       1  0.0  0.1 13756 wsl-pro-service
+    222       1  0.5  0.2 23284 unattended-upgr
+     43       1  0.7  0.2 16200 systemd-journal
+    190       1  0.3  0.1 13820 wsl-pro-service
 -- memori sistem (MB) --
                total        used        free      shared  buff/cache   available
-Mem:            7786         500        7163           4         270        7285
+Mem:            7786         497        6743           4         697        7289
 Swap:           2048           0        2048
 
-== Job 20261105220509804880187 (PID 1193) jam 22:05:13 ==
+== Job 20261109121336809433552 (PID 534) jam 12:13:41 ==
 -- 3 proses terbesar CPU --
     PID    PPID %CPU %MEM   RSS COMMAND
-   1197    1195 23.7  0.5 42552 bash
-      1       0  0.0  0.1 13296 systemd
-     91       1  0.0  0.0  6700 systemd-udevd
+    538     537 41.5  0.5 42588 bash
+      1       0  2.2  0.1 13088 systemd
+     43       1  0.6  0.2 16200 systemd-journal
 -- 3 proses terbesar memori --
     PID    PPID %CPU %MEM   RSS COMMAND
-   1197    1195 23.5  0.5 42552 bash
-    205       1  0.0  0.2 23276 unattended-upgr
-     40       1  0.0  0.2 16412 systemd-journal
+    538     537 41.1  0.5 42588 bash
+    222       1  0.5  0.2 23284 unattended-upgr
+     43       1  0.6  0.2 16200 systemd-journal
 -- memori sistem (MB) --
                total        used        free      shared  buff/cache   available
-Mem:            7786         576        7087           4         270        7210
+Mem:            7786         577        6662           4         697        7209
 Swap:           2048           0        2048
 

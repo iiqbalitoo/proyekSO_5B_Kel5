@@ -1,1 +1,2 @@
+sudo: Authentication failed, try again.
 Ditolak: kamu tidak punya akses ke antrean
